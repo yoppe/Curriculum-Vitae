@@ -139,15 +139,15 @@ Treasure Data|仕事でログ解析のために使用。
 - 習得スキル
   - Scalaを用いたシステムの再設計＆基盤作成ノウハウ
 - コメント
- - Scala経験者があまりいないプロジェクトで、自分が入った当初は継続的な開発に耐えるのが難しいシステム設計になっていたため、同じフリーランスのエンジニアとリファクタリングの提案を行い、大改修を実施した。
- - 要件がほとんど定まっていなかったログイン周りの機能を担当した際は、ユーザーストーリーの分析をもとにフローのたたき台を作成。決定権を持つステークホルダを集め、要件の策定を行った
- - 組織としてチーム開発のナレッジがなく、開発の改善フローが回せない状態だったためスクラムを提案し、デイリースクラムの実施などを提案・実行補助を行った。
+  - Scala経験者があまりいないプロジェクトで、自分が入った当初は継続的な開発に耐えるのが難しいシステム設計になっていたため、同じフリーランスのエンジニアとリファクタリングの提案を行い、大改修を実施した。
+  - 要件がほとんど定まっていなかったログイン周りの機能を担当した際は、ユーザーストーリーの分析をもとにフローのたたき台を作成。決定権を持つステークホルダを集め、要件の策定を行った
+  - 組織としてチーム開発のナレッジがなく、開発の改善フローが回せない状態だったためスクラムを提案し、デイリースクラムの実施などを提案・実行補助を行った。
 - 開発環境
- - 言語: Scala
- - DB: PostgreSQL
- - FW・ライブラリ: PlayFreamework, ScalaTest(単体テスト)
- - サーバー: Docker(AWS)
- - その他: Github, CircleCI, Slack, IntelliJ IDEA
+  - 言語: Scala
+  - DB: PostgreSQL
+  - FW・ライブラリ: PlayFreamework, ScalaTest(単体テスト)
+  - サーバー: Docker(AWS)
+  - その他: Github, CircleCI, Slack, IntelliJ IDEA
 
 ### Web広告運用における分析用データの収集システムの開発
 期間: 2017年09月〜11月(３ヶ月)
@@ -201,8 +201,8 @@ Treasure Data|仕事でログ解析のために使用。
   - 設計: DDD（ドメイン駆動設計）
   - DB: MySQL
   - FW・ライブラリ
-   - バックエンド: PlayFreamework, SkinnyORM, Spec2(単体テスト), Angular2
-   - フロントエンド: Angular2, angular-cli, RxJS, Karma × Jasmine(単体テスト)
+    - バックエンド: PlayFreamework, SkinnyORM, Spec2(単体テスト), Angular2
+    - フロントエンド: Angular2, angular-cli, RxJS, Karma × Jasmine(単体テスト)
   - サーバー: CentOS7(GCP), Docker, Kubernetes
   - インフラ自動化: Terraform(GCP), Ansible, Fabric(Python)
   - その他: Mackerel(サーバ監視), Bamboo(CI/CDツール), Bitbucket(Git), Jira(チケット管理), Conference(ドキュメント管理), Slack, IntelliJ IDEA
