@@ -1,7 +1,7 @@
 # オープン職務経歴書（スキルシート）
 
 公開出来ない情報は伏せているので、より詳しいスキルシートを見たい方はメール( yohei.ookubo@gmail.com )にて、お問い合わせください。
-(オープン職務経歴書を書くにあたって参考にしたページ: https://github.com/Sa2Knight/Curriculum-Vitae)
+(オープン職務経歴書を書くにあたって参考にさせていただいた記事: [オープン職務経歴書を書いてみた](https://qiita.com/Sa2Knight/items/4af2f24fac9290d26119))
 
 ## 基本情報
 key|value  
