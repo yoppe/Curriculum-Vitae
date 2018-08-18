@@ -16,6 +16,7 @@ Mail|[yohei.ookubo@gmail.com](mailto:yohei.ookubo@gmail.com)
 Github|[yoppe](https://github.com/yoppe)
 Facebook|[大久保 陽平](https://www.facebook.com/ookubo.yohei)
 Qiita|[@yoppe](https://qiita.com/yoppe)
+LinkedIn|[yohei-okubo](https://www.linkedin.com/in/yohei-okubo/)
 
 ## 自己紹介
 Webサービスを中心とした開発を５年ほど行っており、現在はフリーランスとして活動しております。
