@@ -168,7 +168,7 @@ Treasure Data|４ヶ月／仕事でログ解析のために使用
   - 言語: Python
   - DB: MySQL, PostgreSQL
   - FW・ライブラリ: Django, Pandas(Python)
-  - サーバー: CentOS7(AWS), Docker, Kubernetes
+  - サーバー: CentOS7(AWS)
   - インフラ自動化: Terraform(AWS), Ansible
   - その他: TreasureData(Presto), Slack, IntelliJ IDEA
 
@@ -203,6 +203,8 @@ Treasure Data|４ヶ月／仕事でログ解析のために使用
   - サーバー: CentOS7(GCP), Docker, Kubernetes
   - インフラ自動化: Terraform(GCP), Ansible, Fabric(Python)
   - その他: Mackerel(サーバ監視), Bamboo(CI/CDツール), Bitbucket(Git), Jira(チケット管理), Conference(ドキュメント管理), Slack, IntelliJ IDEA
+
+--
 
 ※その他の過去に関わった開発案件と担当業務は下記の通りです
 
