@@ -126,8 +126,8 @@ Grunt|６ヶ月／（今後、使うことはないだろうが）保守でき�
 インフラ周り|備考
 --|--
 RDB/NoSQL|５年／MySQL/PostgreSQL/Redisの経験があり、SQLアンチパターンや経験からDB設計を行えるレベル。大まかな最適化をしたことはあるが、細かいチューニングの経験はない
-クラウドサービス(AWS)|３年／アプリエンジニアとしてEC2,VPC,S3,RDS,などの基本的なサービスの運用経験あり。小規模なサーバ環境であれば仕事での構築経験あり。
-クラウドサービス(GCP)|１年／SREとしてGCE,GAE,GKE,GCS,DataFlow,BigQuery,CloudPub/Sub,CloudFunctions,StackDriverなどの運用/構築経験あり。またマネージドサービスを組み合わせたインフラ基盤設計の基礎知識あり。
+クラウドサービス(AWS)|３年／アプリエンジニアとして基本的なサービスの運用経験あり。小規模なサーバ環境であれば仕事での構築経験あり。<br>経験技術； EC2 / VPC / S3 / RDS / IAM / Route53
+クラウドサービス(GCP)|１年６ヶ月／アプリエンジニア・SREとしてGCP全般の運用/構築経験あり。またマネージドサービスを組み合わせたインフラ基盤設計の基礎知識あり。<br>経験技術； GCE / Cloud SQL / GAE/SE(Standard Environment) / GAE/FE(Flexible Environment) / GKE(Kubernetes) / GCS / Dataflow / BigQuery / CloudPub/Sub / CloudFunctions / CloudIAP / CloudKMS / Cloud NAT / Cloud Armor / GLB / Cloud Build / Stackdriver Logging / Stackdriver Monitoring
 インフラ自動化(Terraform)|２年／AWS,GCPともに構築経験あり。
 インフラ自動化(Ansible/Chef)|２年／Chefは保守経験のみ。最近はAnsibleばかりで、Ansibleは構築経験あり
 Vagrant|６ヶ月／[ネットワーク周りの記事](http://labs.septeni.co.jp/entry/20140707/1404670069)を書ける程度には理解
