@@ -100,7 +100,7 @@ key|value
 --|--
 Scala|４年／一番得意な言語で、仕事のアプリケーション開発では一番使用している。１からシステムを設計することができ、教育・指導もできるレベルで習得
 Java|４ヶ月／仕事で少しSeasar2を使った程度。書けなくはないがJavaで作る必要のある要件のものは可能な限りScalaで作りたいと思っている
-Python|１年６ヶ月／プライベートでも仕事でも一番使用している言語。機械学習系のライブラリで株価予測プログラム、スクレイピングバッチ、ログ収集基盤作成、Airflowの処理系などを経験。１からシステムを設計することができるレベルで習得
+Python|２年／プライベートでも仕事でも一番使用している言語。機械学習系のライブラリで株価予測プログラム、スクレイピングバッチ、ログ収集基盤作成、Airflowの処理系、ワークフローエンジン開発などを経験。１からシステムを設計することができるレベルで習得
 Ruby|６ヶ月／仕事でもプライベートでもある程度使っていた言語。ある程度は書けるがRubyの性質上、チーム開発では保守性の高いコードを維持しづらいため、積極的に使っていない。
 PHP|１年６ヶ月／学生時代に一番得意としていた言語。学生時代の制作物はすべてPHPで作成。仕事でも副業案件で触ることがあるが、積極的に触ることはない。１からシステムを実装することができるレベルで習得
 JavaScript|５年／学生時代からほぼ全ての案件で触ってきている。ES6含め広く浅く経験。JavaScriptよりはTypeScriptを使っていきたいと思っている
@@ -111,7 +111,7 @@ Go|１ヶ月／勉強のためにチュートリアルをやったレベル。�
 フレームワーク|備考
 --|--  
 PlayFreamework|４年／Scalaを用いた案件のほぼ全てで使用。プレゼンテーション層のみをPlayに依存させ、他は独自に作ることが多い
-Django|６ヶ月／仕事でもプライベートの開発でも使用経験あり。管理画面付きのWebサービスをスピード重視で作成したい時などに使用。
+Django|１年／仕事でもプライベートの開発でも使用経験あり。管理画面付きのWebサービスをスピード重視で作成したい時などに使用。
 flask|１ヶ月／勉強のためにチュートリアルをやったレベル。[flaskを用いたハンズオン勉強会の講師経験あり](https://qiita.com/yoppe/items/651a9ce8a7c655299eda)
 Angular2×RxJS|１年／自身で技術選定を行い、仕事で設計から実装まで行った経験あり。最初の学習コストさえ払ってしまえば、スピードと保守性を両立させて作れる印象。特にangular-cliの存在は大きく、ビルド周りの構築に時間をかけずにいいのは助かる。１からシステムを設計することができるレベルで習得
 React×Redux|２ヶ月／既存プロジェクトのヘルプをしたときに使用。Reduxの理解や各種ライブラリの選定、ビルド周りの整備など、ちゃんと作るためには初期コストを大きく払わないといけない印象。慣れれば早いのだろうがまだその領域に達せていない
@@ -130,14 +130,14 @@ Grunt|６ヶ月／（今後、使うことはないだろうが）保守でき�
 
 インフラ周り|備考
 --|--
-RDB/NoSQL|５年／MySQL/PostgreSQL/Redisの経験があり、SQLアンチパターンや経験からDB設計を行えるレベル。大まかな最適化をしたことはあるが、細かいチューニングの経験はない
+RDB/NoSQL|６年／MySQL/PostgreSQL/Redisの経験があり、SQLアンチパターンや経験からDB設計を行えるレベル。大まかな最適化をしたことはあるが、細かいチューニングの経験はない
 クラウドサービス(AWS)|３年／アプリエンジニアとして基本的なサービスの運用経験あり。小規模なサーバ環境であれば仕事での構築経験あり。<br>経験技術； EC2 / VPC / S3 / RDS / IAM / Route53
-クラウドサービス(GCP)|２年／アプリエンジニア・SREとしてGCP全般の運用/構築経験あり。またマネージドサービスを組み合わせたインフラ基盤設計の基礎知識あり。<br>経験技術； GCE / CloudSQL / GAE/SE(Standard Environment) / GAE/FE(Flexible Environment) / GKE(Kubernetes) / GCS / Dataflow / Bigtable / BigQuery / CloudPub/Sub / CloudFunctions / CloudCDN / CloudIAP / CloudKMS / CloudNAT / CloudArmor / GLB / Cloud Build / Stackdriver Logging / Stackdriver Monitoring
+クラウドサービス(GCP)|２年６ヶ月／アプリエンジニア・SREとしてGCP全般の運用/構築経験あり。またマネージドサービスを組み合わせたインフラ基盤設計の基礎知識あり。<br>経験技術； GCE / CloudSQL / GAE/SE(Standard Environment) / GAE/FE(Flexible Environment) / GKE(Kubernetes) / GCS / Dataflow / Bigtable / BigQuery / Datastore / CloudPub/Sub / CloudFunctions / CloudCDN / CloudIAP / CloudKMS / CloudNAT / CloudArmor / GLB / Cloud Build / Stackdriver Logging / Stackdriver Monitoring
 インフラ自動化(Terraform)|２年／AWS,GCPともに構築経験あり。
 インフラ自動化(Ansible/Chef)|２年／Chefは保守経験のみ。最近はAnsibleばかりで、Ansibleは構築経験あり
 Vagrant|６ヶ月／[ネットワーク周りの記事](http://labs.septeni.co.jp/entry/20140707/1404670069)を書ける程度には理解
 Docker|２年／SRE業務で構築・保守経験あり。苦なく作成・デバッグ／運用できるレベルで習得。
-Kubernetes|１年／SRE業務で構築・保守経験あり。自身で設計・構築・デバッグ／運用できるレベルで習得。
+Kubernetes|１年６ヶ月／SRE業務で構築・保守経験あり。自身で設計・構築・デバッグ／運用できるレベルで習得。
 Jenkins|１年／SRE業務で保守経験あり。OpenIDの認証機構追加したり、JenkinsAPIを使った処理の制御など一通り複雑な運用もできるレベルで習得。
 
 その他の技術スタック|備考
@@ -147,12 +147,50 @@ WebSocket|４ヶ月／サーバ、クライアントともに１から実装経�
 ElasticSearch|４ヶ月／仕事でログ解析のために使用。簡単なプラグイン導入ができるレベルで習得。[ElasticSearch関連の執筆記事](https://qiita.com/yoppe/items/3e61fd567ae1d4c40a96)
 fluentd|４ヶ月／仕事でログ収集のために使用。設定ファイルをいじれるレベルで習得
 Kibana|４ヶ月／仕事でログの可視化のために使用。簡単なダッシュボードを作れるレベルで習得
+Celery|６ヶ月／仕事で分散処理可能なワーカー開発で使用
 Pandas|６ヶ月／仕事でもプライベートでも機械学習用のデータの加工のために使用。ある程度処理効率を考えて、データの加工ができるレベルで習得
 Treasure Data|４ヶ月／仕事でログ解析のために使用
 DataDog|６ヶ月／GCPの監視ツールとして使用。
 テスト|３年／ScalaではScalaTest,Spec2, JavaScriptではKarma/Jasmineなどを使用し、ビジネスロジックが含まれる部分や複雑な変換処理のみ単体テストを書いていくべきという考えを持っております
 
 ## 直近で関わった開発案件
+
+### ベンチャー企業のiPaaS開発
+期間: 2020年1月 - 
+- 担当業務
+  - Djangoを使ったAPI開発
+  - Celeryを使ったワークフローエンジンの開発
+    - 独自の型システム設計・実装
+    - タスクの入力インターフェイス設計・実装
+    - タスクのテスト実行機能開発
+    - テストコードの整備
+    - etc.
+  - SaaSとの連携コネクタ開発
+  - 全体的な設計の改善提案とリファクタリング実施
+  - CI周りの自動化
+  - ログ監視の整備
+  - Kubernetesを使ったサービス運用
+  - スクラムの導入補助と運営
+- 役割
+  - バックエンドエンジニア
+- チーム
+  - 全体：１０人程度
+  - バックエンドエンジニア：５人〜７人
+- 習得スキル
+  - Djangoの基礎知識
+  - Celeryを使った分散処理ワーカー開発の基礎知識
+  - 多種多様なサービスとのAPI連携のノウハウ
+  - スクラムの運営ノウハウ
+- コメント
+  - TODO
+- 開発環境
+  - 言語/FW: Python, Django
+  - DB/NoSQL: MySQL(CloudSQL), Redis
+  - CI/CD: CircleCI
+  - GCPツール: GKE, GCS, CloudSQL, CloudIAP, CloudNAT, CloudBuild, BigQuery, CloudKMS, CloudPub/Sub, StackDriver
+  - ミドルウェア: Celery
+  - インフラ自動化: Terraform, argo CD
+  - その他: GitHub, Slack, IntelliJ IDEA, Datadog, netlifycms
 
 ### マーケティング企業のデータ連携用のバッチ基盤構築
 期間: 2019年11月 - 12月
